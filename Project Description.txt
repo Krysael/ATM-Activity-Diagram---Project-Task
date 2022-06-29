@@ -1,0 +1,24 @@
+ATM activity diagram - Project description
+
+---------------------------------------------------------------------------------------------------------------------
+	You have now mastered the basics of UML activity diagram creation. Activity Diagrams describe how activities are coordinated to provide a service
+
+	Activity Diagrams consist of activities, states and transitions between activities and states. You can use activity diagram to model the logic of a single use case, or even how to coordinate a collection of use cases for the entire targeted system being developed
+
+	For example, to model how the events in a single use case relate to one another - in particular, use cases where activities may overlap and require coordination
+---------------------------------------------------------------------------------------------------------------------
+
+	In this project, you are going to create UML activity diagram to visualize workflow of standard ATM functionality
+
+---------------------------------------------------------------------------------------------------------------------
+
+	Tasks
+		-Try Activity Diagram Creation Tool
+		-Draw ATM Diagram
+			Activity diagram drawing for standard ATM process
+			Create activity diagram based on the attached ATM process specification dokument
+			Make sure you can reach attached ATM specification and do understand the written procces
+			Activity diagram has to be created based on documentations
+			All actions and their connections must be visualized in the final document
+
+---------------------------------------------------------------------------------------------------------------------
